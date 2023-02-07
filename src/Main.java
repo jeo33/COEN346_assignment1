@@ -1,5 +1,6 @@
 import ca.concordia.processmanagement.*;
 
+import java.sql.SQLSyntaxErrorException;
 import java.util.Random;
 
 public class Main {
@@ -54,8 +55,7 @@ public class Main {
             if(testcase.checkPID(i))testcase.terminateProcess(i);
         }
         System.out.println("After Terminate all processes");
-        testcase.getPidManager().AvailableBits();
-        testcase.getPidManager().NotAvailableBits();
+        System.out.println(testcase.getPidManager().AvailableBits());
 
     }
 }

@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68f9f369-c84c-43a9-9a67-692005a5a24b" name="Changes" comment="modified">
-      <change afterPath="$PROJECT_DIR$/src/test/JunitTest.java" afterDir="false" />
+    <list default="true" id="68f9f369-c84c-43a9-9a67-692005a5a24b" name="Changes" comment="Add Junit test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COEN346_Assignment1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/COEN346_Assignment1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ca/concordia/processmanagement/PIDManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/concordia/processmanagement/PIDManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +60,6 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "I:/IntellJ/IntelliJ IDEA 2022.3.2/lib/junit4.jar",
     "node.js.detected.package.eslint": "true",
@@ -88,7 +84,7 @@
       <workItem from="1674968741843" duration="3190000" />
       <workItem from="1674982440447" duration="34000" />
       <workItem from="1675568701880" duration="8388000" />
-      <workItem from="1675736488649" duration="2564000" />
+      <workItem from="1675736488649" duration="6290000" />
     </task>
     <task id="LOCAL-00001" summary="modified">
       <created>1675577851485</created>
@@ -97,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675577851485</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add Junit test">
+      <created>1675739213194</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675739213194</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +119,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="modified" />
-    <option name="LAST_COMMIT_MESSAGE" value="modified" />
+    <MESSAGE value="Add Junit test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Junit test" />
   </component>
 </project>
