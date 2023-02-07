@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68f9f369-c84c-43a9-9a67-692005a5a24b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ca/concordia/processmanagement/ProcessManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ca/concordia/processmanagement/UserDefinedExceptions.java" afterDir="false" />
+    <list default="true" id="68f9f369-c84c-43a9-9a67-692005a5a24b" name="Changes" comment="modified">
+      <change afterPath="$PROJECT_DIR$/src/test/JunitTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ca/concordia/processmanagement/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/concordia/processmanagement/Operation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COEN346_Assignment1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/COEN346_Assignment1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ca/concordia/processmanagement/PIDManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/concordia/processmanagement/PIDManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ca/concordia/processmanagement/Process.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ca/concordia/processmanagement/ProcessControlBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/concordia/processmanagement/ProcessControlBlock.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +26,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;author&quot;: &quot;jeo33&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;author&quot;: &quot;jeo33&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="2ef9d478-64c6-4708-a99b-46e5087a6586" />
+        <option name="url" value="https://github.com/jeo33/COEN346_assignment1.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -41,15 +57,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/zsy11/IdeaProjects/PidManager-master",
+    "last_opened_file_path": "I:/IntellJ/IntelliJ IDEA 2022.3.2/lib/junit4.jar",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "testing.instrumented.configuration",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -63,8 +87,17 @@
       <updated>1674968740904</updated>
       <workItem from="1674968741843" duration="3190000" />
       <workItem from="1674982440447" duration="34000" />
-      <workItem from="1675568701880" duration="7792000" />
+      <workItem from="1675568701880" duration="8388000" />
+      <workItem from="1675736488649" duration="2564000" />
     </task>
+    <task id="LOCAL-00001" summary="modified">
+      <created>1675577851485</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675577851485</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,5 +113,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modified" />
+    <option name="LAST_COMMIT_MESSAGE" value="modified" />
   </component>
 </project>

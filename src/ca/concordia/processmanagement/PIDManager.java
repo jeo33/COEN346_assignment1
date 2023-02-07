@@ -43,7 +43,7 @@ public class PIDManager {
     }
 
 
-    public void NotAvailableBits()
+    public int NotAvailableBits()
     {
         int bits=0;
         for(int i=0;i<=MAX_PID-MIN_PID;i++)
@@ -52,15 +52,16 @@ public class PIDManager {
 
         }
         System.out.println("Not Available pid numbers: "+bits);
+        return bits;
     }
-    public void AvailableBits()
+    public int AvailableBits()
     {
         int bits=0;
         for(int i=0;i<=MAX_PID-MIN_PID;i++)
         {
             if (!PIDmap.get(i))bits++;
         }
-        System.out.println("Available pid numbers: "+bits);
+        return bits;
     }
     public int getMinPid()
     {
