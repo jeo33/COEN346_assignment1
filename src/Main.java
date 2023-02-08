@@ -26,10 +26,12 @@ public class Main {
         System.out.println();
         //scenario 2 Create as many processes as ID’s available and then create one more
         //process, you should get an error
+        System.out.println("Test 2");
         for(int i=testcase.getPidManager().getMinPid();i<=testcase.getPidManager().getMaxPid();i++)
         {
             testcase.createProcess();
         }
+        System.out.println("After reaching the max size");
         try{testcase.createProcess();}catch (UserDefinedExceptions e){
             System.out.println(e);
         }
@@ -42,10 +44,11 @@ public class Main {
         System.out.println("\narbitrary pid is :"+ id);
         try{
             testcase.terminateProcess(id);
-            id=testcase.createProcess();
             System.out.println("Create process for the 1st time");
-            testcase.createProcess();
+            id=testcase.createProcess();
             System.out.println("Create process for the 2ed time");
+            testcase.createProcess();
+
         }catch (UserDefinedExceptions e){
             System.out.println(e);}
         //Terminate all processes

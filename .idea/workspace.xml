@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68f9f369-c84c-43a9-9a67-692005a5a24b" name="Changes" comment="Add Junit test">
+    <list default="true" id="68f9f369-c84c-43a9-9a67-692005a5a24b" name="Changes" comment="Last update (gai)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ca/concordia/processmanagement/PIDManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/concordia/processmanagement/PIDManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ca/concordia/processmanagement/ProcessControlBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/concordia/processmanagement/ProcessControlBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ca/concordia/processmanagement/ProcessManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ca/concordia/processmanagement/ProcessManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,27 +56,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "I:/IntellJ/IntelliJ IDEA 2022.3.2/lib/junit4.jar",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "testing.instrumented.configuration",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;I:/IntellJ/IntelliJ IDEA 2022.3.2/lib/junit4.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;testing.instrumented.configuration&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -84,7 +88,8 @@
       <workItem from="1674968741843" duration="3190000" />
       <workItem from="1674982440447" duration="34000" />
       <workItem from="1675568701880" duration="8388000" />
-      <workItem from="1675736488649" duration="6290000" />
+      <workItem from="1675736488649" duration="6521000" />
+      <workItem from="1675821746321" duration="2228000" />
     </task>
     <task id="LOCAL-00001" summary="modified">
       <created>1675577851485</created>
@@ -100,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675739213194</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Last update (gai)">
+      <created>1675743923778</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675743923778</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +132,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="modified" />
     <MESSAGE value="Add Junit test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Junit test" />
+    <MESSAGE value="Last update (gai)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Last update (gai)" />
   </component>
 </project>

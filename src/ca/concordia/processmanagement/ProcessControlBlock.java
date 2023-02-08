@@ -10,11 +10,16 @@ public class ProcessControlBlock {
     //3 partially finished
     //4 terminated
 
-    public ProcessControlBlock(int pid,int statue)
+    public ProcessControlBlock(int pid,int statue)//constructor
     {
         PID=pid;
         ProcessStatus=statue;
     }
+
+
+
+    //At the beginning I am thinking too much, so I created 5 statues for different status
+    //But then I realise it's not necessary ,but I decide to keep it.
     public void setProcessStatus(int statue) throws UserDefinedExceptions
     {
         int temp=statue;
